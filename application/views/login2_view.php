@@ -48,7 +48,7 @@
     <main>
       <center>
         <div class="section"></div>
-        <h5 class="black-text">Student Parking Management System</h5>
+        <h5 class="black-text">SPMS</h5>
         <div class="section"></div>
         <div class="section"></div>
 
